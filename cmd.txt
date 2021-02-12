@@ -20,4 +20,4 @@ d'accorder ou non à certains utilisateurs la possibilité de lancer une command
 en tant qu'admin, tout en gardant une trace des commandes tapées et en 
 demandant un mdp avant d'exécuter sa commande. Sudo peut empêcher l'exécution 
 de commandes pouvant affecter le système.
-
+ 
