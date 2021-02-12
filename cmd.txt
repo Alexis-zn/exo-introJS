@@ -1,0 +1,23 @@
+Liste commandes bash/linux
+
+ls (affiche la liste de tout les fichers et dossier)
+ls -a (affiche la liste de tout les fichiers, dossiers et éléments invisible)
+ls -al (liste des fichiers et répertoires avec des informations détaillés)
+pwd (connaître l'emplacement courant)
+mkdir (création d'un dossier)
+mkdir -p (pour créer un dossier entre deux dossiers déjà existants)
+rm (supprime de façon définitive un fichier)
+rmdir (supprime un dossier vide)
+touch (création d'un fichier)
+cd .. (retour au dossier précèdent)
+cd ~ (retour au dossier source)
+cp (pour copier un fichier)
+mv (pour renommer ou déplacer un fichier/dossier)
+clear (effacer les lignes précédentes)
+
+Sudo ( apréviation pour "substitute user do"), permet à l'admin système 
+d'accorder ou non à certains utilisateurs la possibilité de lancer une commande 
+en tant qu'admin, tout en gardant une trace des commandes tapées et en 
+demandant un mdp avant d'exécuter sa commande. Sudo peut empêcher l'exécution 
+de commandes pouvant affecter le système.
+
