@@ -1,0 +1,22 @@
+Commentaire:
+/*  */ pour un commentaire de plusieurs lignes
+// pour une commentaire sur l'intégralité d'une ligne
+
+Types de données: il y a 5 grands types de data en JS
+let nb = 1 // un nombre ou en anglais : integer
+let pi= 1.1 // chiffre à virgule en anglais : float
+let msg = 'message' = string (en fr: chaine de caractère)
+let isStarted = true 
+let isFinished = false (un booléen/a boolean)
+
+let nothing = null (something null) , type à éviter
+let something (undefined) , type à éviter
+il est possible de laisser une string vide donc undefined
+exemple: let nom = ''
+
+Le type de données définit les opérations que l'ont peut 
+effectuer sur cette donée.
+
+Variables
+
+exemple: let age = 24 // déclare la variable age à 24 
