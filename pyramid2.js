@@ -9,3 +9,8 @@ for (let i = 0; i < 16; i++){
     pyramide += etoile
     espace.pop()
 }
+
+// autre
+
+let c = '*'
+console.log(`${c}`)
